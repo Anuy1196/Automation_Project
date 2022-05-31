@@ -1,5 +1,5 @@
 # Variables
-name="tayyab"
+name="Anubhav"
 s3_bucket="your_bucket"
 
 # update the ubuntu repositories
