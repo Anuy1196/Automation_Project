@@ -1,6 +1,6 @@
 # Variables
 name="Anubhav"
-s3_bucket="your_bucket"
+s3_bucket="upgrad/AnubhavYadav"
 
 # update the ubuntu repositories
 apt update -y
